@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
-.img{
-	width:1;
-	height:2;
+img{
+	width:500px;
+	height:200px;
 	object-fit:cover;
 }
 div.hero{
 	display:flex;
-	justify-content:fixed;
-	align-items:right;
+	justify-content:center;
+	align-items:center;
 }
 button.hero{
 	padding:10px;
